@@ -20,7 +20,7 @@
 - 📊 Built **LLM-powered Power BI dashboards** for real-time KPI monitoring
 - 🌐 Full-stack AI apps with **React + Flask + RAG pipelines**
 - 🎓 B.E. in **AI & Machine Learning** — Vivekananda College of Engineering & Technology (2024)
-- 💬 Ask me about **RAG, Time Series Forecasting, NLP, CNNs, or GenAI**
+- 💬 Ask me about **RAG, Time Series Forecasting, NLP, CNNs or GenAI**
 - 📫 Reach me at **hakeemhk874@gmail.com**
 
 ---
