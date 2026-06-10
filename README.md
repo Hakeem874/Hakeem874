@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E75B6&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Abdul+Hakeem;AI%2FML+Engineer+%7C+GenAI+Developer;Data+Scientist+%40+Volvo+Group" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E75B6&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Abdul+Hakeem;AI%2FML+Engineer+%7C+GenAI+Developer;Data+Scientist+%7C+AI+Engineer" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -15,9 +15,9 @@
 
 > *Building intelligent systems that turn raw data into real business value.*
 
-- 🏢 **Data Scientist Trainee** at **Volvo Group India**, Bengaluru
-- 🔮 Developing **N-BEATS forecasting models** for part demand prediction using PyTorch
-- 📊 Building **LLM-powered Power BI dashboards** for real-time KPI monitoring
+- 🤖 **AI/ML Engineer** & **Data Scientist** based in Bengaluru, India
+- 🔮 Built **N-BEATS forecasting models** for part demand prediction using PyTorch
+- 📊 Built **LLM-powered Power BI dashboards** for real-time KPI monitoring
 - 🌐 Full-stack AI apps with **React + Flask + RAG pipelines**
 - 🎓 B.E. in **AI & Machine Learning** — Vivekananda College of Engineering & Technology (2024)
 - 💬 Ask me about **RAG, Time Series Forecasting, NLP, CNNs, or GenAI**
@@ -73,7 +73,7 @@
 
 ## 🚀 What I'm Working On
 
-- 🔮 **Part demand forecasting** using N-BEATS (PyTorch) at Volvo Group
+- 🔮 **Part demand forecasting** using N-BEATS (PyTorch)
 - 📊 **LLM-powered Power BI dashboards** for real-time KPI monitoring
 - 🌐 **Full-stack RQA app** (React + Flask) for automated report generation
 
@@ -120,15 +120,18 @@ Regression model with **R² = 0.89** on 10K+ records using 12 engineered feature
 
 ---
 
-## 📈 GitHub Stats
+## 📊 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hakeem874&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hakeem874&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Top Languages"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hakeem874&theme=tokyo-night&hide_border=true&area=true&area_color=2E75B6" alt="Contribution Graph" width="95%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hakeem874&theme=tokyonight&hide_border=true" width="60%" alt="GitHub Streak"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hakeem874/Hakeem874/output/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Hakeem874/Hakeem874/output/github-contribution-grid-snake.svg"/>
+    <img alt="Contribution Snake" src="https://raw.githubusercontent.com/Hakeem874/Hakeem874/output/github-contribution-grid-snake.svg" width="95%"/>
+  </picture>
 </p>
 
 ---
